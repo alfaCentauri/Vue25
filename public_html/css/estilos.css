@@ -1,0 +1,28 @@
+/* 
+    Created on : 07/02/2019, 03:01:55 PM
+    Author     : Ricardo Presilla.
+    Licencia GNU.
+*/
+.activo{
+    background-color: #ccffcc;
+}
+.alert-box{
+    background-color: #ffcccc;
+    color: #990000;
+    text-align: center;
+}
+.titulo{
+    background-color: #337ab7;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Helvetica, Arial;
+    font-size: 16px;
+    font-weight: bold;
+}
+.celda{
+    height: 26px;
+    text-align: center;
+}
+.isActivo{
+    float: left;
+}
